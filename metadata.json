@@ -1,0 +1,6 @@
+{
+  "name": "Cân Đĩa Kỳ Diệu - Toán Lớp 2 Ki-lô-gam",
+  "description": "Trò chơi giáo dục tương tác học khối lượng, nặng hơn, nhẹ hơn và đơn vị ki-lô-gam theo SGK Toán 2 Kết nối tri thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
